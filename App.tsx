@@ -9,8 +9,8 @@ export default function App() {
       <LinearGradient
         colors={['#495CBA', '#546ABD', '#4F63BC']}
         style={styles.gradient}>
-    
-      <Icons />
+
+<Icons />
         <StatusBar style="light"
         backgroundColor='transparent'/>
      </LinearGradient>
